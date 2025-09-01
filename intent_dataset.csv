@@ -1,0 +1,76 @@
+text,label,split
+good morning,greet,val
+hello,greet,train
+hey there,greet,train
+hi,greet,train
+good evening,greet,test
+good night,goodbye,train
+see you later,goodbye,train
+talk to you later,goodbye,train
+bye,goodbye,test
+catch you soon,goodbye,val
+cheers mate,thank_you,train
+appreciate it,thank_you,train
+many thanks,thank_you,train
+thanks a lot,thank_you,val
+thank you so much,thank_you,test
+will it rain tomorrow,weather,test
+is it sunny outside,weather,train
+what's the weather like today,weather,train
+give me today's forecast,weather,train
+how hot is it right now,weather,val
+what is the time now,time,test
+time right now,time,train
+what time is it,time,train
+tell me the time,time,train
+current time please,time,val
+alarm for 5:45 am,set_alarm,train
+set an alarm for 7 am,set_alarm,train
+create an alarm for tomorrow morning,set_alarm,train
+wake me up at six thirty,set_alarm,val
+schedule a wake up call at 8,set_alarm,test
+cancel my alarm,cancel_alarm,val
+delete tomorrow's wake up,cancel_alarm,train
+turn off the alarm,cancel_alarm,train
+remove the 7 am alarm,cancel_alarm,train
+stop my morning alarm,cancel_alarm,test
+remind me tomorrow morning to water plants,reminder,val
+create a reminder for meeting at 3 pm,reminder,train
+note to buy milk at 5,reminder,test
+set a reminder to pay rent,reminder,train
+remind me to call mom at 6,reminder,train
+get me the cheapest flight to mumbai,book_flight,train
+i need a flight next monday,book_flight,train
+search flights for paris,book_flight,train
+book a flight to delhi,book_flight,test
+find tickets to london,book_flight,val
+place an order for veggie pizza,order_pizza,train
+i'd like a thin crust pizza,order_pizza,train
+order a large margherita pizza,order_pizza,train
+get me cheese burst pizza,order_pizza,test
+i want pepperoni pizza,order_pizza,val
+play some jazz,play_music,train
+start my workout playlist,play_music,train
+turn on my favorite songs,play_music,train
+play relaxing music,play_music,val
+play coldplay,play_music,test
+email the meeting notes,send_email,train
+send an email to john,send_email,train
+compose a mail to sarah,send_email,train
+email my manager the report,send_email,val
+draft an email to support,send_email,test
+directions to central park,navigate,train
+navigate to the nearest gas station,navigate,train
+route to home,navigate,train
+take me to the airport,navigate,val
+find the fastest route to office,navigate,test
+give me something funny,tell_joke,train
+say a joke,tell_joke,train
+i need a funny joke,tell_joke,train
+make me laugh,tell_joke,val
+tell me a joke,tell_joke,test
+how are you doing,small_talk,train
+what are you up to,small_talk,train
+how's your day going,small_talk,train
+how's everything,small_talk,val
+what's up,small_talk,test

@@ -1,0 +1,4 @@
+model,accuracy,macro_f1
+Zero-shot (BART-MNLI),0.6,0.5222222222222223
+DistilBERT (fine-tuned),0.8,0.7777777777777778
+RoBERTa-base (fine-tuned),0.7333333333333333,0.6888888888888889
